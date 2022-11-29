@@ -11,7 +11,7 @@ from __future__ import print_function
 
 import numpy as np
 from load_data import load_mnist
-from tsne import estimate_sne, tsne_grad, symmetric_sne_grad, q_tsne, q_joint
+from tsne import estimate_sne, tsne_grad, q_tsne
 from tsne import p_joint
 
 
